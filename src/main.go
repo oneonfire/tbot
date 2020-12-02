@@ -7,8 +7,8 @@ import (
 )
 
 const (
-	Token  = "1195820277:AAEc4fmOA3ARtAP0MFn-ucKPCpH3lVSdyMI"
-	ChatID = 253517276
+	Token  = ""
+	ChatID = 
 
 //       Version = 0.2
 )
